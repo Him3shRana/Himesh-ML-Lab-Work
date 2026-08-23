@@ -1,0 +1,862 @@
+[
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":30.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":30.0,
+        "MACHINE LEARNING ":30.0,
+        "DATA WAREHOUSE ":30.0,
+        "GRADE ":"C",
+        "RESULT ":"PASS"
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":30.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":45.0,
+        "MACHINE LEARNING ":40.0,
+        "DATA WAREHOUSE ":35.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":38.0,
+        "TOC":38.0,
+        "COMPUTER NETWORK ":38.0,
+        "MACHINE LEARNING ":38.0,
+        "DATA WAREHOUSE ":38.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":59.0,
+        "TOC":55.0,
+        "COMPUTER NETWORK ":57.0,
+        "MACHINE LEARNING ":58.0,
+        "DATA WAREHOUSE ":54.0,
+        "GRADE ":"A",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":30.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":30.0,
+        "MACHINE LEARNING ":30.0,
+        "DATA WAREHOUSE ":30.0,
+        "GRADE ":"C",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":40.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":30.0,
+        "MACHINE LEARNING ":40.0,
+        "DATA WAREHOUSE ":40.0,
+        "GRADE ":"C",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":30.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":30.0,
+        "MACHINE LEARNING ":30.0,
+        "DATA WAREHOUSE ":30.0,
+        "GRADE ":"P",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":30.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":30.0,
+        "MACHINE LEARNING ":40.0,
+        "DATA WAREHOUSE ":40.0,
+        "GRADE ":"B",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":30.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":25.0,
+        "MACHINE LEARNING ":40.0,
+        "DATA WAREHOUSE ":20.0,
+        "GRADE ":"P",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":25.0,
+        "TOC":25.0,
+        "COMPUTER NETWORK ":25.0,
+        "MACHINE LEARNING ":25.0,
+        "DATA WAREHOUSE ":25.0,
+        "GRADE ":"P",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":35.0,
+        "TOC":35.0,
+        "COMPUTER NETWORK ":35.0,
+        "MACHINE LEARNING ":35.0,
+        "DATA WAREHOUSE ":35.0,
+        "GRADE ":"C",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":40.0,
+        "TOC":45.0,
+        "COMPUTER NETWORK ":45.0,
+        "MACHINE LEARNING ":35.0,
+        "DATA WAREHOUSE ":35.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":59.0,
+        "TOC":59.0,
+        "COMPUTER NETWORK ":59.0,
+        "MACHINE LEARNING ":60.0,
+        "DATA WAREHOUSE ":60.0,
+        "GRADE ":"O",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"MALE",
+        "SOFTWARE ENGINEER":45.0,
+        "TOC":47.0,
+        "COMPUTER NETWORK ":50.0,
+        "MACHINE LEARNING ":40.0,
+        "DATA WAREHOUSE ":55.0,
+        "GRADE ":"A",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":56.0,
+        "TOC":41.0,
+        "COMPUTER NETWORK ":48.0,
+        "MACHINE LEARNING ":29.0,
+        "DATA WAREHOUSE ":45.0,
+        "GRADE ":"B",
+        "RESULT ":"PASS"
+    },
+    {
+        "GENDER ":"female",
+        "SOFTWARE ENGINEER":35.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":35.0,
+        "MACHINE LEARNING ":39.0,
+        "DATA WAREHOUSE ":36.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":40.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":40.0,
+        "MACHINE LEARNING ":40.0,
+        "DATA WAREHOUSE ":40.0,
+        "GRADE ":"B",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"male",
+        "SOFTWARE ENGINEER":24.0,
+        "TOC":25.0,
+        "COMPUTER NETWORK ":26.0,
+        "MACHINE LEARNING ":27.0,
+        "DATA WAREHOUSE ":28.0,
+        "GRADE ":"O",
+        "RESULT ":"Fail"
+    },
+    {
+        "GENDER ":"Female ",
+        "SOFTWARE ENGINEER":57.0,
+        "TOC":58.0,
+        "COMPUTER NETWORK ":57.0,
+        "MACHINE LEARNING ":56.0,
+        "DATA WAREHOUSE ":59.0,
+        "GRADE ":"O",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":45.0,
+        "TOC":45.0,
+        "COMPUTER NETWORK ":45.0,
+        "MACHINE LEARNING ":45.0,
+        "DATA WAREHOUSE ":45.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"Male",
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":30.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":30.0,
+        "MACHINE LEARNING ":30.0,
+        "DATA WAREHOUSE ":30.0,
+        "GRADE ":"C",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"Female",
+        "SOFTWARE ENGINEER":60.0,
+        "TOC":58.0,
+        "COMPUTER NETWORK ":60.0,
+        "MACHINE LEARNING ":59.0,
+        "DATA WAREHOUSE ":61.0,
+        "GRADE ":"O",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":50.0,
+        "TOC":50.0,
+        "COMPUTER NETWORK ":50.0,
+        "MACHINE LEARNING ":50.0,
+        "DATA WAREHOUSE ":50.0,
+        "GRADE ":"O",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":45.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":42.0,
+        "MACHINE LEARNING ":43.0,
+        "DATA WAREHOUSE ":42.0,
+        "GRADE ":"B",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":60.0,
+        "TOC":60.0,
+        "COMPUTER NETWORK ":60.0,
+        "MACHINE LEARNING ":60.0,
+        "DATA WAREHOUSE ":60.0,
+        "GRADE ":"O",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"Male ",
+        "SOFTWARE ENGINEER":20.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":4.0,
+        "MACHINE LEARNING ":27.0,
+        "DATA WAREHOUSE ":29.0,
+        "GRADE ":"F",
+        "RESULT ":"Fail"
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":60.0,
+        "TOC":60.0,
+        "COMPUTER NETWORK ":60.0,
+        "MACHINE LEARNING ":60.0,
+        "DATA WAREHOUSE ":60.0,
+        "GRADE ":"O",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"Male ",
+        "SOFTWARE ENGINEER":33.0,
+        "TOC":63.0,
+        "COMPUTER NETWORK ":56.0,
+        "MACHINE LEARNING ":99.0,
+        "DATA WAREHOUSE ":48.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":55.0,
+        "TOC":50.0,
+        "COMPUTER NETWORK ":50.0,
+        "MACHINE LEARNING ":50.0,
+        "DATA WAREHOUSE ":50.0,
+        "GRADE ":null,
+        "RESULT ":"pass "
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":60.0,
+        "TOC":60.0,
+        "COMPUTER NETWORK ":60.0,
+        "MACHINE LEARNING ":60.0,
+        "DATA WAREHOUSE ":60.0,
+        "GRADE ":"O",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"Male",
+        "SOFTWARE ENGINEER":50.0,
+        "TOC":55.0,
+        "COMPUTER NETWORK ":60.0,
+        "MACHINE LEARNING ":60.0,
+        "DATA WAREHOUSE ":35.0,
+        "GRADE ":"A",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"Male",
+        "SOFTWARE ENGINEER":45.0,
+        "TOC":46.0,
+        "COMPUTER NETWORK ":47.0,
+        "MACHINE LEARNING ":48.0,
+        "DATA WAREHOUSE ":49.0,
+        "GRADE ":"A",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"Male",
+        "SOFTWARE ENGINEER":40.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":40.0,
+        "MACHINE LEARNING ":40.0,
+        "DATA WAREHOUSE ":40.0,
+        "GRADE ":"A",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"Female",
+        "SOFTWARE ENGINEER":55.0,
+        "TOC":58.0,
+        "COMPUTER NETWORK ":60.0,
+        "MACHINE LEARNING ":59.0,
+        "DATA WAREHOUSE ":55.0,
+        "GRADE ":"O",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"Female ",
+        "SOFTWARE ENGINEER":60.0,
+        "TOC":59.0,
+        "COMPUTER NETWORK ":60.0,
+        "MACHINE LEARNING ":58.0,
+        "DATA WAREHOUSE ":57.0,
+        "GRADE ":"A+",
+        "RESULT ":"PASS"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":54.0,
+        "TOC":55.0,
+        "COMPUTER NETWORK ":53.0,
+        "MACHINE LEARNING ":54.0,
+        "DATA WAREHOUSE ":52.0,
+        "GRADE ":"O",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"Female ",
+        "SOFTWARE ENGINEER":54.0,
+        "TOC":55.0,
+        "COMPUTER NETWORK ":56.0,
+        "MACHINE LEARNING ":57.0,
+        "DATA WAREHOUSE ":58.0,
+        "GRADE ":"A+",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"MALE",
+        "SOFTWARE ENGINEER":10.0,
+        "TOC":20.0,
+        "COMPUTER NETWORK ":13.0,
+        "MACHINE LEARNING ":24.0,
+        "DATA WAREHOUSE ":5.0,
+        "GRADE ":"1",
+        "RESULT ":"FAIL"
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":60.0,
+        "TOC":60.0,
+        "COMPUTER NETWORK ":60.0,
+        "MACHINE LEARNING ":60.0,
+        "DATA WAREHOUSE ":60.0,
+        "GRADE ":"O",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":60.0,
+        "TOC":60.0,
+        "COMPUTER NETWORK ":60.0,
+        "MACHINE LEARNING ":60.0,
+        "DATA WAREHOUSE ":60.0,
+        "GRADE ":"O",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"Mens",
+        "SOFTWARE ENGINEER":0.0,
+        "TOC":1.0,
+        "COMPUTER NETWORK ":2.0,
+        "MACHINE LEARNING ":3.0,
+        "DATA WAREHOUSE ":67.0,
+        "GRADE ":"O",
+        "RESULT ":"Fail"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":30.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":30.0,
+        "MACHINE LEARNING ":30.0,
+        "DATA WAREHOUSE ":30.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":35.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":30.0,
+        "MACHINE LEARNING ":35.0,
+        "DATA WAREHOUSE ":30.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":35.0,
+        "TOC":35.0,
+        "COMPUTER NETWORK ":35.0,
+        "MACHINE LEARNING ":35.0,
+        "DATA WAREHOUSE ":35.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":59.0,
+        "TOC":59.0,
+        "COMPUTER NETWORK ":59.0,
+        "MACHINE LEARNING ":60.0,
+        "DATA WAREHOUSE ":60.0,
+        "GRADE ":"O",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":40.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":40.0,
+        "MACHINE LEARNING ":40.0,
+        "DATA WAREHOUSE ":40.0,
+        "GRADE ":"A",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":55.0,
+        "TOC":55.0,
+        "COMPUTER NETWORK ":55.0,
+        "MACHINE LEARNING ":55.0,
+        "DATA WAREHOUSE ":55.0,
+        "GRADE ":"A+",
+        "RESULT ":"PASS"
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":58.0,
+        "TOC":55.0,
+        "COMPUTER NETWORK ":60.0,
+        "MACHINE LEARNING ":59.0,
+        "DATA WAREHOUSE ":60.0,
+        "GRADE ":"O",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"FEMALE",
+        "SOFTWARE ENGINEER":64.0,
+        "TOC":99.0,
+        "COMPUTER NETWORK ":87.0,
+        "MACHINE LEARNING ":93.0,
+        "DATA WAREHOUSE ":97.0,
+        "GRADE ":"O+",
+        "RESULT ":"PASS"
+    },
+    {
+        "GENDER ":"Female",
+        "SOFTWARE ENGINEER":60.0,
+        "TOC":60.0,
+        "COMPUTER NETWORK ":60.0,
+        "MACHINE LEARNING ":59.0,
+        "DATA WAREHOUSE ":60.0,
+        "GRADE ":"O",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":40.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":45.0,
+        "MACHINE LEARNING ":40.0,
+        "DATA WAREHOUSE ":40.0,
+        "GRADE ":"A",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":40.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":40.0,
+        "MACHINE LEARNING ":40.0,
+        "DATA WAREHOUSE ":40.0,
+        "GRADE ":"A",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":-10.0,
+        "TOC":-20.0,
+        "COMPUTER NETWORK ":-15.0,
+        "MACHINE LEARNING ":-60.0,
+        "DATA WAREHOUSE ":-2.0,
+        "GRADE ":"F",
+        "RESULT ":"Discharge "
+    },
+    {
+        "GENDER ":"Male",
+        "SOFTWARE ENGINEER":50.0,
+        "TOC":45.0,
+        "COMPUTER NETWORK ":50.0,
+        "MACHINE LEARNING ":45.0,
+        "DATA WAREHOUSE ":50.0,
+        "GRADE ":"A",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":49.0,
+        "TOC":49.0,
+        "COMPUTER NETWORK ":49.0,
+        "MACHINE LEARNING ":49.0,
+        "DATA WAREHOUSE ":49.0,
+        "GRADE ":"A",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"Female ",
+        "SOFTWARE ENGINEER":55.0,
+        "TOC":56.0,
+        "COMPUTER NETWORK ":57.0,
+        "MACHINE LEARNING ":58.0,
+        "DATA WAREHOUSE ":59.0,
+        "GRADE ":"A+",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"MaLe",
+        "SOFTWARE ENGINEER":30.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":30.0,
+        "MACHINE LEARNING ":30.0,
+        "DATA WAREHOUSE ":30.0,
+        "GRADE ":"c",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"Female ",
+        "SOFTWARE ENGINEER":38.0,
+        "TOC":46.0,
+        "COMPUTER NETWORK ":43.0,
+        "MACHINE LEARNING ":39.0,
+        "DATA WAREHOUSE ":39.0,
+        "GRADE ":"A ",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"Male",
+        "SOFTWARE ENGINEER":35.0,
+        "TOC":35.0,
+        "COMPUTER NETWORK ":35.0,
+        "MACHINE LEARNING ":35.0,
+        "DATA WAREHOUSE ":35.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"male",
+        "SOFTWARE ENGINEER":30.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":30.0,
+        "MACHINE LEARNING ":30.0,
+        "DATA WAREHOUSE ":30.0,
+        "GRADE ":"C",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"Male",
+        "SOFTWARE ENGINEER":55.0,
+        "TOC":55.0,
+        "COMPUTER NETWORK ":55.0,
+        "MACHINE LEARNING ":55.0,
+        "DATA WAREHOUSE ":55.0,
+        "GRADE ":"A",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"male",
+        "SOFTWARE ENGINEER":40.0,
+        "TOC":42.0,
+        "COMPUTER NETWORK ":41.0,
+        "MACHINE LEARNING ":43.0,
+        "DATA WAREHOUSE ":50.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":45.0,
+        "TOC":50.0,
+        "COMPUTER NETWORK ":48.0,
+        "MACHINE LEARNING ":52.0,
+        "DATA WAREHOUSE ":50.0,
+        "GRADE ":"A",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"female",
+        "SOFTWARE ENGINEER":40.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":25.0,
+        "MACHINE LEARNING ":26.0,
+        "DATA WAREHOUSE ":28.0,
+        "GRADE ":"P",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"M",
+        "SOFTWARE ENGINEER":24.0,
+        "TOC":25.0,
+        "COMPUTER NETWORK ":26.0,
+        "MACHINE LEARNING ":27.0,
+        "DATA WAREHOUSE ":24.0,
+        "GRADE ":"P",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":null,
+        "SOFTWARE ENGINEER":null,
+        "TOC":null,
+        "COMPUTER NETWORK ":null,
+        "MACHINE LEARNING ":null,
+        "DATA WAREHOUSE ":null,
+        "GRADE ":null,
+        "RESULT ":null
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":30.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":30.0,
+        "MACHINE LEARNING ":30.0,
+        "DATA WAREHOUSE ":30.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":45.0,
+        "TOC":40.0,
+        "COMPUTER NETWORK ":50.0,
+        "MACHINE LEARNING ":48.0,
+        "DATA WAREHOUSE ":46.0,
+        "GRADE ":"A",
+        "RESULT ":"pass"
+    },
+    {
+        "GENDER ":"F",
+        "SOFTWARE ENGINEER":35.0,
+        "TOC":30.0,
+        "COMPUTER NETWORK ":40.0,
+        "MACHINE LEARNING ":45.0,
+        "DATA WAREHOUSE ":48.0,
+        "GRADE ":"B",
+        "RESULT ":"Pass"
+    }
+]
